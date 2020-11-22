@@ -1,0 +1,2 @@
+Cada pasta contém o veículo utilizado como fonte de dados para execução do scraper com o código no Jupyter notebook correspondete.
+Após a limpeza dos dados, obteve-se o arquivo com a versão final dos dados em cleaned_data_vf, onde foi realizada a extração dos substantivos para identificar a frequência das palavras mais citadas a partir do código encontrado em Text Mining- noun, e seu resultado no arquivo  result_analysis_noun.
